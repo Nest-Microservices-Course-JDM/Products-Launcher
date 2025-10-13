@@ -41,3 +41,7 @@ Si se hace al revés, se perderán las referencias de los sub-módulos en el rep
 ```
 docker compose -f docker-compose.prod.yml build
 ```
+4. Para levantar los servicios ejecutar el comando
+```
+docker compose -f docker-compose.prod.yml up
+```
